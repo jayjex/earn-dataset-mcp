@@ -19,7 +19,7 @@ If you want live data instead of a snapshot, see our other server, [earn-bounty-
 
 ## Hosted version
 
-Running on [FiatDock](https://fiatdock.com) at $0.01/call: https://fiatdock.com/s/svc_<id> (Streamable HTTP, pay-per-call via x402).
+Running on [FiatDock](https://fiatdock.com) at $0.01/call: https://fiatdock.com/s/svc_7db4548f-dbf5-4f27-8e3c-31566b78ee01 (Streamable HTTP, pay-per-call via x402).
 
 ## Local setup
 
