@@ -1,0 +1,14 @@
+{
+  "name": "earn-dataset-mcp",
+  "version": "1.0.0",
+  "description": "MCP server over a static Superteam Earn dataset: 28 listings with full description text (snapshot 2026-09-04). list/get/search/stats. Zero network at runtime — never down.",
+  "license": "MIT",
+  "type": "module",
+  "bin": { "earn-dataset-mcp": "dist/index.js" },
+  "files": ["dist", "README.md"],
+  "engines": { "node": ">=18" },
+  "keywords": ["mcp", "superteam", "solana", "bounty", "earn", "dataset", "modelcontextprotocol"],
+  "dependencies": { "@modelcontextprotocol/sdk": "^1.0.0" },
+  "scripts": { "build": "tsc" },
+  "devDependencies": { "typescript": "^7.0.2" }
+}
