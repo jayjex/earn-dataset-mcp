@@ -15,7 +15,7 @@ The data ships inside the package. No network calls at runtime, so the tools res
 
 Dataset fields per listing: `slug`, `title`, `reward`, `token`, `deadline`, `desc`. Rewards are in the listed token (15 USDG, 13 USDC); 2 listings have no stated reward.
 
-If you want live data instead of a snapshot, see our other server, [earn-bounty-scanner](https://github.com/goblin-grub/earn-bounty-scanner), which fetches from superteam.fun directly.
+If you want live data instead of a snapshot, see our other server, [earn-bounty-scanner](https://github.com/jayjex/earn-bounty-scanner), which fetches from superteam.fun directly.
 
 ## Hosted version
 
@@ -24,7 +24,7 @@ Running on [FiatDock](https://fiatdock.com) at $0.01/call: https://fiatdock.com/
 ## Local setup
 
 ```bash
-git clone https://github.com/goblin-grub/earn-dataset-mcp
+git clone https://github.com/jayjex/earn-dataset-mcp
 cd earn-dataset-mcp
 npm install
 npm run build
