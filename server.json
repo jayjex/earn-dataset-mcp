@@ -1,0 +1,10 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.jayjex/earn-dataset-mcp",
+  "description": "MCP server over a static Superteam Earn dataset: 28 listings with full description text (snapshot 2026-09-04). list/get/search/stats. Zero network at runtime.",
+  "repository": {
+    "url": "https://github.com/jayjex/earn-dataset-mcp",
+    "source": "github"
+  },
+  "version": "1.0.0"
+}
